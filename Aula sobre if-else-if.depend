@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647351702 source:c:\users\fatecano\desktop\algo e log de program\aula sobre if-else-if\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
